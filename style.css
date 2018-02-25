@@ -28,10 +28,6 @@ html, body {
     padding: 0px;
 }
 
-html.js .scrollreveal {
-    visibility: hidden;
-}
-
 .btn-primary {
     background-color: #880000;
     border-color: #880000;
