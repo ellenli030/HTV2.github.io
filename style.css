@@ -18,6 +18,25 @@ html {
     display: table;
 }
 
+.ribbon {
+    width: 200;
+    height: auto;
+}
+
+.ribbon {
+    width: 200px;
+    height: auto;
+}
+
+#content {
+    position: relative;
+}
+#content img {
+    position: absolute;
+    top: 0px;
+    right: 1200px;
+}
+
 body {
     width:100%;
     display:table-cell;
